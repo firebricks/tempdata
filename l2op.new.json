@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "602462de176bc013dfe80b78",
+    "chronicles": "High Five",
+    "openDate": "01-04-2021",
+    "name": "SCRYDE.RU",
+    "platform": "JAVA",
+    "uri": "https://SCRYDE.RU",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 0
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b79",
+    "chronicles": "Interlude",
+    "openDate": "26-02-2021",
+    "name": "valhalla-age.net",
+    "platform": "PTS",
+    "uri": "https://valhalla-age.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b7a",
+    "chronicles": "Interlude",
+    "openDate": "26-02-2021",
+    "name": "ketrawars2.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars2.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b7b",
+    "chronicles": "Classic",
+    "openDate": "12-02-2021",
+    "name": "classic-gve.ru",
+    "platform": "JAVA",
+    "uri": "https://classic-gve.ru",
+    "type": "GVE",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 0
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b7c",
+    "chronicles": "Interlude",
+    "openDate": "12-02-2021",
+    "name": "ketrawars.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b7d",
+    "chronicles": "Interlude",
+    "openDate": "12-02-2021",
+    "name": "epoch-life.su",
+    "platform": "JAVA",
+    "uri": "https://epoch-life.su",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b7e",
+    "chronicles": "Interlude",
+    "openDate": "12-02-2021",
+    "name": "Tirael.ru",
+    "platform": "JAVA",
+    "uri": "https://Tirael.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b7f",
+    "chronicles": "Interlude",
+    "openDate": "13-02-2021",
+    "name": "queen-world.ru",
+    "platform": "PTS",
+    "uri": "https://queen-world.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 60
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b80",
+    "chronicles": "Interlude",
+    "openDate": "19-02-2021",
+    "name": "Lineage777.com",
+    "platform": "JAVA",
+    "uri": "https://Lineage777.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b81",
+    "chronicles": "C3",
+    "openDate": "20-02-2021",
+    "name": "L2C3.COM",
+    "platform": "JAVA",
+    "uri": "https://L2C3.COM",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b82",
+    "chronicles": "High Five",
+    "openDate": "20-02-2021",
+    "name": "l2name.ru",
+    "platform": "JAVA",
+    "uri": "https://l2name.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1000
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b83",
+    "chronicles": "Interlude",
+    "openDate": "20-02-2021",
+    "name": "linestorm.ru",
+    "platform": "JAVA",
+    "uri": "https://linestorm.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b84",
+    "chronicles": "Classic",
+    "openDate": "завтра",
+    "name": "classic-gve.ru",
+    "platform": "JAVA",
+    "uri": "https://classic-gve.ru",
+    "type": "GVE",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 0
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b85",
+    "chronicles": "Interlude",
+    "openDate": "завтра",
+    "name": "Tirael.ru",
+    "platform": "JAVA",
+    "uri": "https://Tirael.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b86",
+    "chronicles": "Interlude",
+    "openDate": "завтра",
+    "name": "ketrawars.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b87",
+    "chronicles": "Interlude",
+    "openDate": "завтра",
+    "name": "epoch-life.su",
+    "platform": "JAVA",
+    "uri": "https://epoch-life.su",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b88",
+    "chronicles": "Classic",
+    "openDate": "12-02-2021",
+    "name": "classic-gve.ru",
+    "platform": "JAVA",
+    "uri": "https://classic-gve.ru",
+    "type": "GVE",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 0
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b89",
+    "chronicles": "Interlude",
+    "openDate": "12-02-2021",
+    "name": "ketrawars.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b8a",
+    "chronicles": "Interlude",
+    "openDate": "12-02-2021",
+    "name": "epoch-life.su",
+    "platform": "JAVA",
+    "uri": "https://epoch-life.su",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b8b",
+    "chronicles": "Interlude",
+    "openDate": "12-02-2021",
+    "name": "Tirael.ru",
+    "platform": "JAVA",
+    "uri": "https://Tirael.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b8c",
+    "chronicles": "Interlude",
+    "openDate": "13-02-2021",
+    "name": "queen-world.ru",
+    "platform": "PTS",
+    "uri": "https://queen-world.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 60
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b8d",
+    "chronicles": "Freya",
+    "openDate": "13-02-2021",
+    "name": "l2freya.top",
+    "platform": "JAVA",
+    "uri": "https://l2freya.top",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b8e",
+    "chronicles": "High Five",
+    "openDate": "13-02-2021",
+    "name": "thebestworld.pw",
+    "platform": "JAVA",
+    "uri": "https://thebestworld.pw",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b8f",
+    "chronicles": "Interlude",
+    "openDate": "19-02-2021",
+    "name": "Lineage777.com",
+    "platform": "JAVA",
+    "uri": "https://Lineage777.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b90",
+    "chronicles": "C3",
+    "openDate": "20-02-2021",
+    "name": "L2C3.COM",
+    "platform": "JAVA",
+    "uri": "https://L2C3.COM",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b91",
+    "chronicles": "High Five",
+    "openDate": "20-02-2021",
+    "name": "l2name.ru",
+    "platform": "JAVA",
+    "uri": "https://l2name.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1000
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b92",
+    "chronicles": "Interlude",
+    "openDate": "20-02-2021",
+    "name": "linestorm.ru",
+    "platform": "JAVA",
+    "uri": "https://linestorm.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b93",
+    "chronicles": "High Five",
+    "openDate": "26-02-2021",
+    "name": "hunterage.ru",
+    "platform": "JAVA",
+    "uri": "https://hunterage.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b94",
+    "chronicles": "Interlude",
+    "openDate": "26-02-2021",
+    "name": "ketrawars2.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars2.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b95",
+    "chronicles": "Interlude",
+    "openDate": "26-02-2021",
+    "name": "valhalla-age.net",
+    "platform": "PTS",
+    "uri": "https://valhalla-age.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b96",
+    "chronicles": "High Five",
+    "openDate": "01-04-2021",
+    "name": "SCRYDE.RU",
+    "platform": "JAVA",
+    "uri": "https://SCRYDE.RU",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 0
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b97",
+    "chronicles": "Interlude",
+    "openDate": "19-02-2021",
+    "name": "crumatower.com",
+    "platform": "JAVA",
+    "uri": "https://crumatower.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b98",
+    "chronicles": "Epilogue",
+    "openDate": "19-02-2021",
+    "name": "L2Z.RU",
+    "platform": "JAVA",
+    "uri": "https://L2Z.RU",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b99",
+    "chronicles": "High Five",
+    "openDate": "20-02-2021",
+    "name": "l2today.ws",
+    "platform": "JAVA",
+    "uri": "https://l2today.ws",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5555
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b9a",
+    "chronicles": "Interlude",
+    "openDate": "19-03-2021",
+    "name": "genesis.ms",
+    "platform": "JAVA",
+    "uri": "https://genesis.ms",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b9b",
+    "chronicles": "High Five",
+    "openDate": "10-08-2020",
+    "name": "scryde.ru",
+    "platform": "JAVA",
+    "uri": "https://scryde.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b9c",
+    "chronicles": "High Five",
+    "openDate": "04-01-2021",
+    "name": "SCRYDE.RU",
+    "platform": "JAVA",
+    "uri": "https://SCRYDE.RU",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 300
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b9d",
+    "chronicles": "High Five",
+    "openDate": "16-11-2020",
+    "name": "RPG-Club.com",
+    "platform": "PTS",
+    "uri": "https://RPG-Club.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b9e",
+    "chronicles": "High Five",
+    "openDate": "10-02-2021",
+    "name": "l2helios.net",
+    "platform": "JAVA",
+    "uri": "https://l2helios.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1000
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80b9f",
+    "chronicles": "High Five",
+    "openDate": "06-02-2021",
+    "name": "destarion.com",
+    "platform": "JAVA",
+    "uri": "https://destarion.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba0",
+    "chronicles": "Interlude",
+    "openDate": "05-02-2021",
+    "name": "ketrawars.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba1",
+    "chronicles": "Interlude",
+    "openDate": "05-02-2021",
+    "name": "ketrawars.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba2",
+    "chronicles": "C3",
+    "openDate": "05-02-2021",
+    "name": "dualsword.club",
+    "platform": "JAVA",
+    "uri": "https://dualsword.club",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba3",
+    "chronicles": "High Five",
+    "openDate": "05-02-2021",
+    "name": "thebattle.club",
+    "platform": "JAVA",
+    "uri": "https://thebattle.club",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba4",
+    "chronicles": "Classic",
+    "openDate": "05-02-2021",
+    "name": "classic-gve.ru",
+    "platform": "JAVA",
+    "uri": "https://classic-gve.ru",
+    "type": "GVE",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 0
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba5",
+    "chronicles": "Interlude",
+    "openDate": "15-01-2021",
+    "name": "ketrawars.net",
+    "platform": "PTS",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba6",
+    "chronicles": "Interlude",
+    "openDate": "23-12-2020",
+    "name": "l2day.ru",
+    "platform": "JAVA",
+    "uri": "https://l2day.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba7",
+    "chronicles": "Epilogue",
+    "openDate": "06-11-2020",
+    "name": "ingame.pw",
+    "platform": "PTS",
+    "uri": "https://ingame.pw",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 7
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba8",
+    "chronicles": "High Five",
+    "openDate": "вчера",
+    "name": "l2helios.net",
+    "platform": "JAVA",
+    "uri": "https://l2helios.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1000
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80ba9",
+    "chronicles": "Essence",
+    "openDate": "вчера",
+    "name": "l2abyss.com",
+    "platform": "JAVA",
+    "uri": "https://l2abyss.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80baa",
+    "chronicles": "High Five",
+    "openDate": "10-02-2021",
+    "name": "l2helios.net",
+    "platform": "JAVA",
+    "uri": "https://l2helios.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1000
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bab",
+    "chronicles": "High Five",
+    "openDate": "06-02-2021",
+    "name": "destarion.com",
+    "platform": "JAVA",
+    "uri": "https://destarion.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bac",
+    "chronicles": "Interlude",
+    "openDate": "05-02-2021",
+    "name": "ketrawars.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bad",
+    "chronicles": "Interlude",
+    "openDate": "05-02-2021",
+    "name": "ketrawars.net",
+    "platform": "JAVA",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bae",
+    "chronicles": "C3",
+    "openDate": "05-02-2021",
+    "name": "dualsword.club",
+    "platform": "JAVA",
+    "uri": "https://dualsword.club",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80baf",
+    "chronicles": "High Five",
+    "openDate": "05-02-2021",
+    "name": "thebattle.club",
+    "platform": "JAVA",
+    "uri": "https://thebattle.club",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb0",
+    "chronicles": "Interlude",
+    "openDate": "05-02-2021",
+    "name": "ла2фан.рф",
+    "platform": "JAVA",
+    "uri": "https://ла2фан.рф",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb1",
+    "chronicles": "Classic",
+    "openDate": "05-02-2021",
+    "name": "classic-gve.ru",
+    "platform": "JAVA",
+    "uri": "https://classic-gve.ru",
+    "type": "GVE",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 0
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb2",
+    "chronicles": "Interlude",
+    "openDate": "04-02-2021",
+    "name": "alltar.pw",
+    "platform": "JAVA",
+    "uri": "https://alltar.pw",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb3",
+    "chronicles": "Interlude",
+    "openDate": "15-01-2021",
+    "name": "ketrawars.net",
+    "platform": "PTS",
+    "uri": "https://ketrawars.net",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb4",
+    "chronicles": "Epilogue",
+    "openDate": "15-01-2021",
+    "name": "anderia.ru",
+    "platform": "JAVA",
+    "uri": "https://anderia.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb5",
+    "chronicles": "High Five",
+    "openDate": "04-01-2021",
+    "name": "SCRYDE.RU",
+    "platform": "JAVA",
+    "uri": "https://SCRYDE.RU",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 300
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb6",
+    "chronicles": "C4",
+    "openDate": "25-12-2020",
+    "name": "l2ultra.ru",
+    "platform": "PTS",
+    "uri": "https://l2ultra.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb7",
+    "chronicles": "Interlude",
+    "openDate": "23-12-2020",
+    "name": "l2day.ru",
+    "platform": "JAVA",
+    "uri": "https://l2day.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb8",
+    "chronicles": "High Five",
+    "openDate": "16-11-2020",
+    "name": "RPG-Club.com",
+    "platform": "PTS",
+    "uri": "https://RPG-Club.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bb9",
+    "chronicles": "Epilogue",
+    "openDate": "06-11-2020",
+    "name": "ingame.pw",
+    "platform": "PTS",
+    "uri": "https://ingame.pw",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 7
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bba",
+    "chronicles": "High Five",
+    "openDate": "10-08-2020",
+    "name": "scryde.ru",
+    "platform": "JAVA",
+    "uri": "https://scryde.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "premium": 1,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bbb",
+    "chronicles": "Interlude",
+    "openDate": "06-02-2021",
+    "name": "L2creed.ru",
+    "platform": "JAVA",
+    "uri": "https://L2creed.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50000
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bbc",
+    "chronicles": "Interlude",
+    "openDate": "06-02-2021",
+    "name": "MultiCraft.su",
+    "platform": "JAVA",
+    "uri": "https://MultiCraft.su",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bbd",
+    "chronicles": "Epilogue",
+    "openDate": "05-02-2021",
+    "name": "regengame.com",
+    "platform": "JAVA",
+    "uri": "https://regengame.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bbe",
+    "chronicles": "High Five",
+    "openDate": "05-02-2021",
+    "name": "mysterium.su",
+    "platform": "JAVA",
+    "uri": "https://mysterium.su",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1500
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bbf",
+    "chronicles": "Gracia Final",
+    "openDate": "05-02-2021",
+    "name": "l2e-global.com",
+    "platform": "JAVA",
+    "uri": "https://l2e-global.com",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 3
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bc0",
+    "chronicles": "Interlude",
+    "openDate": "05-02-2021",
+    "name": "l2deus.ru",
+    "platform": "JAVA",
+    "uri": "https://l2deus.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  },
+  {
+    "id": "602462de176bc013dfe80bc1",
+    "chronicles": "Interlude",
+    "openDate": "04-02-2021",
+    "name": "op-games.ru",
+    "platform": "JAVA",
+    "uri": "https://op-games.ru",
+    "type": "Normal",
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "premium": 0,
+    "approved": false,
+    "questions": []
+  }
+]
