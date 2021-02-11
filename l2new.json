@@ -1,0 +1,768 @@
+[
+  {
+    "name": "SCRYDE.RU",
+    "chronicles": "High Five",
+    "openDate": "2021-04-01",
+    "uri": "https://SCRYDE.RU",
+    "premium": 2,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26f7"
+  },
+  {
+    "name": "valhalla-age.net",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-26",
+    "uri": "https://valhalla-age.net",
+    "premium": 2,
+    "features": [
+      "Lowrate",
+      "PTS"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "platform": "PTS",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26f8"
+  },
+  {
+    "name": "ketrawars2.net",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-26",
+    "uri": "https://ketrawars2.net",
+    "premium": 1,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26f9"
+  },
+  {
+    "name": "classic-gve.ru",
+    "chronicles": "Classic",
+    "openDate": "2021-02-12",
+    "uri": "https://classic-gve.ru",
+    "premium": 1,
+    "features": [
+      "GVE",
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 0
+      }
+    ],
+    "platform": "JAVA",
+    "type": "GVE",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26fa"
+  },
+  {
+    "name": "ketrawars.net",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-12",
+    "uri": "https://ketrawars.net",
+    "premium": 1,
+    "features": [
+      "PvP"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26fb"
+  },
+  {
+    "name": "epoch-life.su",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-12",
+    "uri": "https://epoch-life.su",
+    "premium": 1,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26fc"
+  },
+  {
+    "name": "Tirael.ru",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-12",
+    "uri": "https://Tirael.ru",
+    "premium": 1,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26fd"
+  },
+  {
+    "name": "queen-world.ru",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-13",
+    "uri": "https://queen-world.ru",
+    "premium": 1,
+    "features": [
+      "Midrate",
+      "PTS"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 60
+      }
+    ],
+    "platform": "PTS",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26fe"
+  },
+  {
+    "name": "Lineage777.com",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-19",
+    "uri": "https://Lineage777.com",
+    "premium": 1,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a26ff"
+  },
+  {
+    "name": "L2C3.COM",
+    "chronicles": "C3",
+    "openDate": "2021-02-20",
+    "uri": "https://L2C3.COM",
+    "premium": 2,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2700"
+  },
+  {
+    "name": "l2name.ru",
+    "chronicles": "High Five",
+    "openDate": "2021-02-20",
+    "uri": "https://l2name.ru",
+    "premium": 1,
+    "features": [
+      "PvP"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1000
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2701"
+  },
+  {
+    "name": "linestorm.ru",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-20",
+    "uri": "https://linestorm.ru",
+    "premium": 1,
+    "features": [
+      "PvP"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2702"
+  },
+  {
+    "name": "l2freya.top",
+    "chronicles": "Freya",
+    "openDate": "2021-02-13",
+    "uri": "https://l2freya.top",
+    "premium": 1,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a270c"
+  },
+  {
+    "name": "thebestworld.pw",
+    "chronicles": "High Five",
+    "openDate": "2021-02-13",
+    "uri": "https://thebestworld.pw",
+    "premium": 1,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a270d"
+  },
+  {
+    "name": "hunterage.ru",
+    "chronicles": "High Five",
+    "openDate": "2021-02-26",
+    "uri": "https://hunterage.ru",
+    "premium": 1,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2712"
+  },
+  {
+    "name": "crumatower.com",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-19",
+    "uri": "https://crumatower.com",
+    "premium": 0,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2716"
+  },
+  {
+    "name": "L2Z.RU",
+    "chronicles": "Epilogue",
+    "openDate": "2021-02-19",
+    "uri": "https://L2Z.RU",
+    "premium": 0,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2717"
+  },
+  {
+    "name": "l2today.ws",
+    "chronicles": "High Five",
+    "openDate": "2021-02-20",
+    "uri": "https://l2today.ws",
+    "premium": 0,
+    "features": [
+      "PvP"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5555
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2718"
+  },
+  {
+    "name": "genesis.ms",
+    "chronicles": "Interlude",
+    "openDate": "2021-03-19",
+    "uri": "https://genesis.ms",
+    "premium": 0,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2719"
+  },
+  {
+    "name": "RPG-Club.com",
+    "chronicles": "High Five",
+    "openDate": "2020-11-16",
+    "uri": "https://RPG-Club.com",
+    "premium": 1,
+    "features": [
+      "Lowrate",
+      "PTS"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "platform": "PTS",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a271c"
+  },
+  {
+    "name": "l2helios.net",
+    "chronicles": "High Five",
+    "openDate": "2021-02-10",
+    "uri": "https://l2helios.net",
+    "premium": 1,
+    "features": [
+      "PvP"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1000
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a271d"
+  },
+  {
+    "name": "destarion.com",
+    "chronicles": "High Five",
+    "openDate": "2021-02-06",
+    "uri": "https://destarion.com",
+    "premium": 1,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a271e"
+  },
+  {
+    "name": "dualsword.club",
+    "chronicles": "C3",
+    "openDate": "2021-02-05",
+    "uri": "https://dualsword.club",
+    "premium": 1,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2721"
+  },
+  {
+    "name": "thebattle.club",
+    "chronicles": "High Five",
+    "openDate": "2021-02-05",
+    "uri": "https://thebattle.club",
+    "premium": 1,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2722"
+  },
+  {
+    "name": "l2day.ru",
+    "chronicles": "Interlude",
+    "openDate": "2020-12-23",
+    "uri": "https://l2day.ru",
+    "premium": 1,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 10
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2725"
+  },
+  {
+    "name": "ingame.pw",
+    "chronicles": "Epilogue",
+    "openDate": "2020-11-06",
+    "uri": "https://ingame.pw",
+    "premium": 1,
+    "features": [
+      "Lowrate",
+      "PTS"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 7
+      }
+    ],
+    "platform": "PTS",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2726"
+  },
+  {
+    "name": "l2abyss.com",
+    "chronicles": "Essence",
+    "openDate": "2021-02-10",
+    "uri": "https://l2abyss.com",
+    "premium": 1,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2728"
+  },
+  {
+    "name": "ла2фан.рф",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-05",
+    "uri": "https://ла2фан.рф",
+    "premium": 1,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a272f"
+  },
+  {
+    "name": "alltar.pw",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-04",
+    "uri": "https://alltar.pw",
+    "premium": 1,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2731"
+  },
+  {
+    "name": "anderia.ru",
+    "chronicles": "Epilogue",
+    "openDate": "2021-01-15",
+    "uri": "https://anderia.ru",
+    "premium": 1,
+    "features": [
+      "PvP"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1200
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2733"
+  },
+  {
+    "name": "l2ultra.ru",
+    "chronicles": "C4",
+    "openDate": "2020-12-25",
+    "uri": "https://l2ultra.ru",
+    "premium": 1,
+    "features": [
+      "Lowrate",
+      "PTS"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1
+      }
+    ],
+    "platform": "PTS",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2735"
+  },
+  {
+    "name": "L2creed.ru",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-06",
+    "uri": "https://L2creed.ru",
+    "premium": 0,
+    "features": [
+      "PvP"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50000
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a273a"
+  },
+  {
+    "name": "MultiCraft.su",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-06",
+    "uri": "https://MultiCraft.su",
+    "premium": 0,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a273b"
+  },
+  {
+    "name": "regengame.com",
+    "chronicles": "Epilogue",
+    "openDate": "2021-02-05",
+    "uri": "https://regengame.com",
+    "premium": 0,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 5
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a273c"
+  },
+  {
+    "name": "mysterium.su",
+    "chronicles": "High Five",
+    "openDate": "2021-02-05",
+    "uri": "https://mysterium.su",
+    "premium": 0,
+    "features": [
+      "PvP"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 1500
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a273d"
+  },
+  {
+    "name": "l2e-global.com",
+    "chronicles": "Gracia Final",
+    "openDate": "2021-02-05",
+    "uri": "https://l2e-global.com",
+    "premium": 0,
+    "features": [
+      "Lowrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 3
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a273e"
+  },
+  {
+    "name": "l2deus.ru",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-05",
+    "uri": "https://l2deus.ru",
+    "premium": 0,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 50
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a273f"
+  },
+  {
+    "name": "op-games.ru",
+    "chronicles": "Interlude",
+    "openDate": "2021-02-04",
+    "uri": "https://op-games.ru",
+    "premium": 0,
+    "features": [
+      "Midrate"
+    ],
+    "rates": [
+      {
+        "type": "XP",
+        "amount": 100
+      }
+    ],
+    "platform": "JAVA",
+    "type": "Normal",
+    "approved": false,
+    "id": "602469dd9d5dd13ca88a2740"
+  }
+]
