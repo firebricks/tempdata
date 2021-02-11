@@ -4,14 +4,14 @@
     "chronicles": "High Five",
     "openDate": "2021-04-01",
     "uri": "https://SCRYDE.RU",
-    "premium": 1,
+    "premium": 2,
     "features": [
       "Lowrate"
     ],
     "rates": [
       {
         "type": "XP",
-        "amount": 0
+        "amount": 1
       }
     ],
     "platform": "JAVA",
@@ -24,7 +24,7 @@
     "chronicles": "Interlude",
     "openDate": "2021-02-26",
     "uri": "https://valhalla-age.net",
-    "premium": 1,
+    "premium": 2,
     "features": [
       "Lowrate",
       "PTS"
@@ -187,7 +187,7 @@
     "chronicles": "C3",
     "openDate": "2021-02-20",
     "uri": "https://L2C3.COM",
-    "premium": 1,
+    "premium": 2,
     "features": [
       "Lowrate"
     ],
